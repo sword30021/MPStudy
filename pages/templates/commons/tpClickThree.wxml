@@ -1,0 +1,11 @@
+<template name="tpClickThree">
+    <view class="layout">
+        <view class="layoutLeft">
+            <image src="{{imageLeft}}"></image>
+        </view>
+        <view class="layoutCenter">{{labelCenter}}</view>
+        <view class="layoutRight">
+            <image src="{{imageRight}}"></image>
+        </view>
+    </view>
+</template>

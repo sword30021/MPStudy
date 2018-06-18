@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<import src="../templates/commons/tpClickThree.wxml" />
+<view class="container">
+    <template is="tpClickThree" data="{{...itemInfo}}" />
+</view>
